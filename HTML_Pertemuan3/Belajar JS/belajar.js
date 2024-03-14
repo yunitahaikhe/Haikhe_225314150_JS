@@ -1,0 +1,1 @@
+document.getElementById("Nama").innerHTML = "Mata Kuliiah Pemrograman Platform External";
